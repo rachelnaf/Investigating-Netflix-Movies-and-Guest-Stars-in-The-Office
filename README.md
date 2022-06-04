@@ -4,7 +4,7 @@ In this guided project, I excersice my skills to solve  a real-world data scienc
 
 This project helps me gain knowledges in data science skill such as  exploratory data analysis, which allows me to perform critical tasks such as manipulating raw data and drawing conclusions from plots I create of the data.
 
-# Guided project
+# Project Tasks
 Dig into a real-world Netflix movie dataset using everything from lists and loops to pandas and matplotlib.
 
 1.  Project tasks
